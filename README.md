@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧑‍🔧 I'm an Engineering Manager currently working with full-stack TypeScript/React/Node.js/AWS teams
+- ☕ Also spent a fair bit of time with Java/Groovy
+- 🤗 Motivated by things that make for high-performing teams - a culture of trust, shared ownership and succeeding together
+- 🔧 CD, feature flags, observability and automated rollbacks are living the ☁️
+- 💻 Coder at :heart:
+
 <!--
 **ceva24/ceva24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
