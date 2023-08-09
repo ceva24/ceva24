@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🔧 I'm an Engineering Manager currently working with full-stack TypeScript/React/Node.js/AWS teams
+- 🧑‍🔧 I'm an Engineering Manager working with full-stack TypeScript/React/Node.js/AWS teams
 - ☕ Also have an extensive background in Java/Groovy
 - 🤗 Motivated by things that make for high-performing teams - a culture of trust, shared ownership and succeeding together
 - 🔧 CD, feature flags, observability and automated rollbacks are living the ☁️
